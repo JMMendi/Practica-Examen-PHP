@@ -1,0 +1,20 @@
+{
+    "name": "jmmendi/examencrud",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JMMendi",
+            "email": "mendizabaly@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24",
+        "mmo/faker-images": "^0.9.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
